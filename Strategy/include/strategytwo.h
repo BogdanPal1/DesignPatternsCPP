@@ -1,0 +1,4 @@
+#ifndef STRATEGY_TWO_H
+#define STRATEGY_TWO_H
+
+#endif // STRATEGY_TWO_H
